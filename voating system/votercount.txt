@@ -1,0 +1,6 @@
+Voter Name: krish, Voter Serial Number: 1853, Chosen Candidate: 
+, Party: bjp,kathmandu
+Voter Name: krish, Voter Serial Number: 1043, Chosen Candidate: 
+, Party: bjp,kathmandu
+Voter Name: krish, Voter Serial Number: 1624, Chosen Candidate: 
+, Party: bjp,kathmandu
